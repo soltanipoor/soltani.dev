@@ -12,11 +12,11 @@ export default function Home() {
   return (
     <>
       <h1 className="font-semibold text-xl mb-8">
-        Hey, I'm MohammadAli
+        Hey, I&apos;m MohammadAli
       </h1>
 
       <p>
-        I'm a frontend developer.
+        I&apos;m a frontend developer.
       </p>
 
       <hr className="my-4 border-stone-700" />
